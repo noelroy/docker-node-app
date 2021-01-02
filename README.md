@@ -20,7 +20,7 @@ Step 2: in mongo-express UI - create a new collection "todo" in the database "my
 _You can access the application under localhost:3000 from your browser_
 
 
-### Short Notes
-[docker short notes]
+### Reference
+...[Short Notes][docker short notes]
 
 [docker short notes]: https://github.com/noelroy/short-notes/tree/main/docker
