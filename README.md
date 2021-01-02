@@ -21,6 +21,6 @@ _You can access the application under localhost:3000 from your browser_
 
 
 ### Reference
-...[Short Notes][docker short notes]
+- [Short Notes][docker short notes]
 
 [docker short notes]: https://github.com/noelroy/short-notes/tree/main/docker
